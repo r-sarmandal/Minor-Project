@@ -14,7 +14,7 @@ public class LostPost extends Post {
     public void setDescription(String description) {
         this.description = description;
     }
-    
+
     public boolean isCashPrize() {
         return cashPrize;
     }
@@ -23,6 +23,7 @@ public class LostPost extends Post {
         this.cashPrize = cashPrize;
     }
 
+    //hello
 
 
 }
