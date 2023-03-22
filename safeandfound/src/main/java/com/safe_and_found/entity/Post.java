@@ -14,7 +14,6 @@ public class Post {
     private String tag;
     private String imagePath;
     private String whatsappNumber;
-    private boolean enabled=true;
 
     public String getWhatsappNumber() {
         return whatsappNumber;

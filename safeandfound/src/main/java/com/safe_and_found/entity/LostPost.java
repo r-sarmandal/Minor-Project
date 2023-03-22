@@ -23,7 +23,8 @@ public class LostPost extends Post {
         this.cashPrize = cashPrize;
     }
 
-    //hello
+    //hello1122\
+
 
 
 }
